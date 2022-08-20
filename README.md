@@ -57,7 +57,7 @@ Parcial 1 para la materia de gestión de datos
     "associate's degree",
     "bachelor's degree"]
 
-    Los anteriores son los grados de escolaridad de los padres para los cuales los estudiantes obtuvieron un percentil superior a 85 en escritura y la mayoria se distribuye en 'some college', 'master's degree', 'associate's degree' y 'bachelor's degree'
+    Los anteriores son los grados de escolaridad de los padres para los cuales los estudiantes obtuvieron un percentil superior a 85 en escritura y la mayoria se distribuye en 'master's degree', 'associate's degree' y 'bachelor's degree'
 
 7. ¿Qué porcentaje de los estudiantes obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas? De estos estudiantes¿que porcentaje estudió para los exámenes?
 
